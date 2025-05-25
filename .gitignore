@@ -1,0 +1,23 @@
+# Rider project files
+.idea/
+*.sln.iml
+*.DotSettings
+*.DotSettings.user
+
+# Build output
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+*.log
+
+# Node/React frontend
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
